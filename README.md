@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>💻 (duct-tape) Web-Developer | 🇬🇧 Germany</h3>
+  <h3>💻 (duct-tape) Web-Developer | Germany</h3>
 </div>
 
 <div align="center">
