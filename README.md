@@ -8,4 +8,6 @@
  
 </div>
 
-<a href="https://anzui.dev">Get prints of my photos!</a>
+<div align="center">
+  <a href="https://anzui.dev">Get prints of my photos!</a>
+</div>
